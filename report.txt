@@ -1,0 +1,12 @@
+
+PASSWORD AUDIT REPORT
+----------------------
+Password: kali
+Entropy: 18.8
+Attempts: 18
+Status: WEAK (Cracked)
+
+Recommendation:
+- Use 12+ characters
+- Add symbols and uppercase
+- Avoid personal info
